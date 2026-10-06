@@ -1,0 +1,1 @@
+"""FastAPI testing lab application."""
